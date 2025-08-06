@@ -25,14 +25,14 @@ Face Matching: Embeddings are compared using Euclidean Distance.
 Face Grouping: Similar faces are grouped using K-Means clustering.
 Output: Matched or grouped faces are shown on-screen.
 
-Screenshots
-<img width="597" height="1225" alt="image" src="https://github.com/user-attachments/assets/8978ccba-d89c-4f38-ba29-86fc88a7d97a" />
+
+<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/8978ccba-d89c-4f38-ba29-86fc88a7d97a" />
 Homescreen
 
-<img width="597" height="1225" alt="image" src="https://github.com/user-attachments/assets/635e1c3f-0a2f-4617-a972-ee2d5b592248" />
+<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/635e1c3f-0a2f-4617-a972-ee2d5b592248" />
 Face detection
 
-<img width="597" height="1225" alt="image" src="https://github.com/user-attachments/assets/f6948315-caf4-43a5-9d66-acadb2c83afb" />
+<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/f6948315-caf4-43a5-9d66-acadb2c83afb" />
 Result
 
 
